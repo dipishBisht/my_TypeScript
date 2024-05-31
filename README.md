@@ -1,0 +1,18 @@
+- Difference b/w  Javascript and TypeScript
+- Benefits and Drawbacks of using TypeScript
+- Setting up TypeScript
+    -> npm i -g typescript
+    -> tsc --init
+- Defining variables in TypeScript
+- Data types in TypeScript 
+    -> any, unknown, never, enum, tuple
+- Arrays, Objects, Functions in TypeScript
+-Advanced Types in TypeScript 
+    ->Type Aliases
+    ->Unions and Intersections
+    ->Type Narrowing
+    ->Nullable Types
+    ->Literals Types
+    ->The Unknown Type
+    ->The Never Type
+    ->Optional Chaning
