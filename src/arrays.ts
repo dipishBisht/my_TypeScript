@@ -6,3 +6,11 @@
 // let myArray4 = []; //? It is of any type which we should avoid
 // let newArray:string[]=[];        //? The type array will be
 // newArray.forEach((val)=>val.)    //? the method it will provide
+
+const arr: number[] = [5, 1, 3, 4, 1, 6];
+
+arr.push(10);
+
+for (let x: number = 0; x < arr.length; x++) {
+  console.log(arr[x]);
+}
